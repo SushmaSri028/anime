@@ -7,7 +7,7 @@ import App from './App.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    {/* If using Router, wrap <App /> with <BrowserRouter basename="/anime"> */}
+    { If using Router, wrap <App /> with <BrowserRouter basename="/anime"> }
     <App />
   </StrictMode>,
 )
